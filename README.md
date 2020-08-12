@@ -10,7 +10,9 @@ A series of notebooks that explore the theory fundamentals of Deep Learning and 
 
 ## Computer Vision
 - [Introduction to Convolutional Neural Networks (CNN)](https://github.com/victorviro/Deep_learning_python/blob/master/Introduction_to_CNNs.ipynb)
-
 - [CNN architectures](https://github.com/victorviro/Deep_learning_python/blob/master/CNN_Architectures.ipynb)
-
 - [Introduction to object detection](https://github.com/victorviro/Deep_learning_python/blob/master/Introduction_to_object_detection.ipynb)
+- [Improving object detection](https://github.com/victorviro/Deep_learning_python/blob/master/Improving_object_detection.ipynb)
+
+## Sequence modeling
+- [Introduction to Recurrent Neural Networks (RNN)](https://github.com/victorviro/Deep_learning_python/blob/master/Introduction_to_RNNs.ipynb)
