@@ -22,3 +22,11 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 ## Sequence modeling
 - [Introduction to Recurrent Neural Networks (RNN)](https://github.com/victorviro/Deep_learning_python/blob/master/Introduction_to_RNNs.ipynb)
 - [Forecasting a time series with RNN](https://github.com/victorviro/Deep_learning_python/blob/master/Forecasting_a_time_series_with_RNN.ipynb)
+- [RNN: Unstable gradients problem and Short-Term Memory](https://github.com/victorviro/Deep_learning_python/blob/master/RNNs_long_sequences.ipynb)
+
+## NLP
+- [Text Vectorization](https://github.com/victorviro/Deep_learning_python/blob/master/Text_Vectorization_NLP.ipynb)
+- [Word2vec CBOW model](https://github.com/victorviro/Deep_learning_python/blob/master/Word2vec_CBOW_model.ipynb)
+- [Masking and padding with Keras](https://github.com/victorviro/Deep_learning_python/blob/master/Masking_and_padding_with_Keras.ipynb)
+- [Character-level lenguage model with RNN](https://github.com/victorviro/Deep_learning_python/blob/master/Char_RNN_with_Keras.ipynb)
+
