@@ -20,6 +20,7 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 - [Introduction to object detection](https://github.com/victorviro/Deep_learning_python/blob/master/Introduction_to_object_detection.ipynb)
 - [Improving object detection](https://github.com/victorviro/Deep_learning_python/blob/master/Improving_object_detection.ipynb)
 - [Object detection: YOLO](https://github.com/victorviro/Deep_learning_python/blob/master/YOLO_explained.ipynb)
+- [Wheat detection using YOLO](https://www.kaggle.com/viroviro/wheat-detection-using-yolov5)
 
 ## Sequence modeling
 - [Introduction to Recurrent Neural Networks (RNN)](https://github.com/victorviro/Deep_learning_python/blob/master/Introduction_to_RNNs.ipynb)
