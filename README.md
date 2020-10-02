@@ -6,7 +6,9 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 - [The vanishing/exploding gradients problem](https://github.com/victorviro/Deep_learning_python/blob/master/Vanishing_Exploding_gradients_problem_DNNs.ipynb)
 - [Faster training](https://github.com/victorviro/Deep_learning_python/blob/master/Faster_optimizers_DNNs.ipynb)
 - [Regularization techniques](https://github.com/victorviro/Deep_learning_python/blob/master/Regularization_DNNs.ipynb)
+- [Reusing pretrained layers](https://github.com/victorviro/Deep_learning_python/blob/master/Reusing_pretrained_layers_DNNs.ipynb)
 - [Introduction to TensorFlow: operations and data structures](https://github.com/victorviro/Deep_learning_python/blob/master/TensorFlow_operations_and_data_structures.ipynb)
+- [Custom models and custom training with TensorFlow](https://github.com/victorviro/Deep_learning_python/blob/master/Tensorflow_custom_models_and_training.ipynb)
 - [TensorFlow’s autodifferentiation](https://github.com/victorviro/Deep_learning_python/blob/master/TensorFlow%E2%80%99s_autodifferentiation.ipynb)
 - [Keras Functional API](https://github.com/victorviro/Deep_learning_python/blob/master/Keras_Functional_API.ipynb)
 
@@ -29,4 +31,6 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 - [Word2vec CBOW model](https://github.com/victorviro/Deep_learning_python/blob/master/Word2vec_CBOW_model.ipynb)
 - [Masking and padding with Keras](https://github.com/victorviro/Deep_learning_python/blob/master/Masking_and_padding_with_Keras.ipynb)
 - [Character-level lenguage model with RNN](https://github.com/victorviro/Deep_learning_python/blob/master/Char_RNN_with_Keras.ipynb)
+- [An Encoder Decoder RNN for Neural Machine Translation (NMT) with Keras](https://github.com/victorviro/Deep_learning_python/blob/master/NLP_Encoder_Decoder_NMT.ipynb)
+- [Bidirectional RNNs and Beam Search algorithm for improving NMT](https://github.com/victorviro/Deep_learning_python/blob/master/Bidirectional_RNNs_and_Beam_Search.ipynb)
 
