@@ -10,7 +10,7 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 - [Introduction to TensorFlow: operations and data structures](https://github.com/victorviro/Deep_learning_python/blob/master/TensorFlow_operations_and_data_structures.ipynb)
 - [Custom models and custom training with TensorFlow](https://github.com/victorviro/Deep_learning_python/blob/master/Tensorflow_custom_models_and_training.ipynb)
 - [TensorFlow’s autodifferentiation](https://github.com/victorviro/Deep_learning_python/blob/master/TensorFlow%E2%80%99s_autodifferentiation.ipynb)
-- [Keras Functional API](https://github.com/victorviro/Deep_learning_python/blob/master/Keras_Functional_API.ipynb)
+- [Keras Functional and Subclassing APIs](https://github.com/victorviro/Deep_learning_python/blob/master/Keras_Functional_API.ipynb)
 
 
 ## Computer Vision
