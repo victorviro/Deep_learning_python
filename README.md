@@ -34,4 +34,7 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 - [Character-level lenguage model with RNN](https://github.com/victorviro/Deep_learning_python/blob/master/Char_RNN_with_Keras.ipynb)
 - [An Encoder Decoder RNN for Neural Machine Translation (NMT) with Keras](https://github.com/victorviro/Deep_learning_python/blob/master/NLP_Encoder_Decoder_NMT.ipynb)
 - [Bidirectional RNNs and Beam Search algorithm for improving NMT](https://github.com/victorviro/Deep_learning_python/blob/master/Bidirectional_RNNs_and_Beam_Search.ipynb)
+- [Attention mechanisms and the trasnformer architecture](https://github.com/victorviro/Deep_learning_python/blob/master/NLP_Attention_and_Transformer_architecture.ipynb)
+- [Bidirectional Encoder Representations for Transformers (BERT)](https://github.com/victorviro/Deep_learning_python/blob/master/BERT.ipynb)
+- [Detecting disaster tweets with DistilBERT](https://www.kaggle.com/viroviro/distilbert-for-detecting-disaster-tweets)
 
