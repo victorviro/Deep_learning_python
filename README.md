@@ -17,6 +17,7 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 - [Introduction to Convolutional Neural Networks (CNN)](https://github.com/victorviro/Deep_learning_python/blob/master/Introduction_to_CNNs.ipynb)
 - [CNN architectures](https://github.com/victorviro/Deep_learning_python/blob/master/CNN_Architectures.ipynb)
 - [Predictions with pre-trained models in Keras](https://github.com/victorviro/Deep_learning_python/blob/master/Keras_pretained_models.ipynb)
+- [Transfer learning CIFAR-10 Image Classification](https://github.com/victorviro/Deep_learning_python/blob/master/Cifar_10_Image_classification_via_fine_tuning.ipynb)
 - [Introduction to object detection](https://github.com/victorviro/Deep_learning_python/blob/master/Introduction_to_object_detection.ipynb)
 - [Improving object detection](https://github.com/victorviro/Deep_learning_python/blob/master/Improving_object_detection.ipynb)
 - [Object detection: YOLO](https://github.com/victorviro/Deep_learning_python/blob/master/YOLO_explained.ipynb)
@@ -38,3 +39,10 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 - [Bidirectional Encoder Representations for Transformers (BERT)](https://github.com/victorviro/Deep_learning_python/blob/master/BERT.ipynb)
 - [Detecting disaster tweets with DistilBERT](https://www.kaggle.com/viroviro/distilbert-for-detecting-disaster-tweets)
 
+## Generative modeling
+
+- [Autoencoders](https://github.com/victorviro/Deep_learning_python/blob/master/Autoencoders_explained.ipynb)
+
+## Deployment of Machine Learning Models
+
+- [Deploying TensorFlow Models with TF Serving](https://github.com/victorviro/Deep_learning_python/blob/master/Deploying_TensorFlow_Models_with_TF_Serving.ipynb)
