@@ -46,3 +46,4 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 ## Deployment of Machine Learning Models
 
 - [Deploying TensorFlow Models with TF Serving](https://github.com/victorviro/Deep_learning_python/blob/master/Deploying_TensorFlow_Models_with_TF_Serving.ipynb)
+- [Deploying TensorFlow Models with TF Serving in a Docker container](https://github.com/victorviro/tf_serving_mnist)
