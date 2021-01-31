@@ -35,8 +35,8 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 - [Character-level lenguage model with RNN](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Char_RNN_with_Keras.ipynb)
 - [An Encoder Decoder RNN for Neural Machine Translation (NMT) with Keras](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/NLP_Encoder_Decoder_NMT.ipynb)
 - [Bidirectional RNNs and Beam Search algorithm for improving NMT](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Bidirectional_RNNs_and_Beam_Search.ipynb)
-- [Attention mechanisms and the trasnformer architecture](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/NLP_Attention_and_Transformer_architecture.ipynb)
-- [Bidirectional Encoder Representations for Transformers (BERT)](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/BERT.ipynb)
+- [Attention mechanisms and the Transformer architecture](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/NLP_Attention_and_Transformer_architecture.ipynb)
+- [Transfer learning and pre-trained language models](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Transfer_learning_in_NLP.ipynb)
 - [Detecting disaster tweets with DistilBERT](https://www.kaggle.com/viroviro/distilbert-for-detecting-disaster-tweets)
 
 ## Generative modeling
