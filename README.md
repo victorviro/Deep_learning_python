@@ -31,13 +31,17 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 ## NLP
 - [Text Vectorization](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Text_Vectorization_NLP.ipynb)
 - [Word2vec CBOW model](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Word2vec_CBOW_model.ipynb)
+- [Sentence embeddings from GloVe word vectors](https://github.com/victorviro/text_vectorization)
 - [Masking and padding with Keras](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Masking_and_padding_with_Keras.ipynb)
+- [Sequence labeling tasks](https://github.com/victorviro/Deep_learning_python/blob/master/Deep_learning_methods_for_sequence_labeling_NLP.ipynb)
+- [NER for recognizing entities in restaurant reviews with spaCy](https://github.com/victorviro/ner)
 - [Character-level lenguage model with RNN](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Char_RNN_with_Keras.ipynb)
 - [An Encoder Decoder RNN for Neural Machine Translation (NMT) with Keras](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/NLP_Encoder_Decoder_NMT.ipynb)
 - [Bidirectional RNNs and Beam Search algorithm for improving NMT](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Bidirectional_RNNs_and_Beam_Search.ipynb)
 - [Attention mechanisms and the Transformer architecture](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/NLP_Attention_and_Transformer_architecture.ipynb)
 - [Transfer learning and pre-trained language models](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Transfer_learning_in_NLP.ipynb)
-- [Detecting disaster tweets with DistilBERT](https://www.kaggle.com/viroviro/distilbert-for-detecting-disaster-tweets)
+- [Detecting disaster tweets fine-tuning BERT](https://www.kaggle.com/viroviro/detecting-disaster-tweets-fine-tuning-bert)
+- [Text classifier from sentence embeddings of a pre-trained BERT](https://github.com/victorviro/Text-classifier-from-BERT-embeddings)
 
 ## Generative modeling
 
