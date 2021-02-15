@@ -33,7 +33,7 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 - [Word2vec CBOW model](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Word2vec_CBOW_model.ipynb)
 - [Sentence embeddings from GloVe word vectors](https://github.com/victorviro/text_vectorization)
 - [Masking and padding with Keras](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Masking_and_padding_with_Keras.ipynb)
-- [Sequence labeling tasks](https://github.com/victorviro/Deep_learning_python/blob/master/Deep_learning_methods_for_sequence_labeling_NLP.ipynb)
+- [Sequence labeling tasks](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Deep_learning_methods_for_sequence_labeling_NLP.ipynb)
 - [NER for recognizing entities in restaurant reviews with spaCy](https://github.com/victorviro/ner)
 - [Character-level lenguage model with RNN](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Char_RNN_with_Keras.ipynb)
 - [An Encoder Decoder RNN for Neural Machine Translation (NMT) with Keras](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/NLP_Encoder_Decoder_NMT.ipynb)
