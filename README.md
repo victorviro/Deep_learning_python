@@ -17,8 +17,10 @@ A series of notebooks that explore the theoretical fundamentals of Deep Learning
 ## Computer Vision
 - [Introduction to Convolutional Neural Networks (CNN)](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Introduction_to_CNNs.ipynb)
 - [CNN architectures](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/CNN_Architectures.ipynb)
+- [Model Scaling for CNNs: EfficientNet](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/EfficientNet.ipynb)
 - [Predictions with pre-trained models in Keras](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Keras_pretained_models.ipynb)
 - [Transfer learning CIFAR-10 Image Classification](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Cifar_10_Image_classification_via_fine_tuning.ipynb)
+- [Leaf desease classification via fine-tuning with EfficientNet](https://www.kaggle.com/viroviro/leaf-desease-classification)
 - [Introduction to object detection](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Introduction_to_object_detection.ipynb)
 - [Improving object detection](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/Improving_object_detection.ipynb)
 - [Object detection: YOLO](https://nbviewer.jupyter.org/github/victorviro/Deep_learning_python/blob/master/YOLO_explained.ipynb)
